@@ -6,7 +6,7 @@ The Arsenal: I specialize in PHP and Laravel, primarily utilizing the TALL Stack
 
 Engineering for the Real World: I have extensive experience optimizing mission-critical systems for legacy hardware environments and hardening API security using Laravel Sanctum.
 
-Business-First Mindset: Currently working in Sales at TopWay English School, I ensure that technical architecture aligns with revenue goals and real-world user needs.
+Business-First Mindset: I ensure that technical architecture aligns with revenue goals and real-world user needs.
 
 ## 🏆 Achievements & Projects
 Techstars Startup Weekend 2026: Secured 2nd Place and moved the project into the Criatec professional incubator.
